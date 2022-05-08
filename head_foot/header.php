@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exo-tec</title>
+    <title>Eco-tec</title>
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link rel="stylesheet" href="css/principal.css">
     <link rel="stylesheet" href="css/login.css">
@@ -20,7 +20,7 @@
     <?php session_start()?>
     <header>
         <div class="nav-bar">
-            <p class="logo"><i class="uil uil-robot"></i>Echo-tec</p>
+            <p class="logo"><i class="uil uil-robot"></i>Eco-tec</p>
             <div class="navigation">
                 <div class="nav-items">
                     <i class="uil uil-times nav-close-btn"></i>
