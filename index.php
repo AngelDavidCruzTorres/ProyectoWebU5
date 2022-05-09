@@ -36,7 +36,7 @@
             <p>Bien empleada, la tecnología puede convertirse en el gran aliado de la conservación
               del medioambiente. De hecho, cada vez son más los y las profesionales de diversos
               campos de la ciencia que se especializan en el diseño de soluciones específicas.</p>
-            <a href="listado.php">Leer más<i class="uil uil-arrow-right"></i></a>
+            <a href="listado.php" class="read-btn">Leer más<i class="uil uil-arrow-right"></i></a>
           </div>
         </div>
         <div class="swiper-slide">
