@@ -46,5 +46,5 @@
         </div>
     </header>
 
-    <img src="/images/bg4.jpg" alt="fondo" id="fondo">
+    <img src="./images/bg4.jpg" alt="fondo" id="fondo">
     
