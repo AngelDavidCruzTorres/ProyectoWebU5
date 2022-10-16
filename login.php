@@ -1,4 +1,8 @@
 <?php include("./head_foot/header.php") ?>
+<script>
+  const header = this.document.querySelector("header");
+  header.classList.add("fijo");
+</script>
 
 <div class="login-box">
 
